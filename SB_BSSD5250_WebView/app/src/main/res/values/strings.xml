@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SB_BSSD5250_WebView</string>
+    <string name="site">Put Owning Site Here</string>
+    <string name="game_site">https://github.com/rembound/Match-3-Game-HTML5</string>
+    <string name="anim_site">https://mdn.github.io/webgl-examples/tutorial/sample8/</string>
+</resources>
